@@ -1,0 +1,22 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Java/Maven
+target/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+
+# Environment/Secret files
+.env
+.env.local
